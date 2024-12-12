@@ -1,0 +1,136 @@
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.exe
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.deps.json
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.runtimeconfig.json
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.dll
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.pdb
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Identity.Core.dll
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.AssemblyReference.cache
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Administrator.resources
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.DodajIzlet.resources
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.FormeZaUnos.DodajRezervaciju.resources
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Registracija.resources
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.OsnovneKlase.IstorijaRezervacija.resources
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Klijent.resources
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Prijava.resources
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.GenerateResource.cache
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.GeneratedMSBuildEditorConfig.editorconfig
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.AssemblyInfoInputs.cache
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.AssemblyInfo.cs
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.CoreCompileInputs.cache
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.dll
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\refint\TVP_Projekat.dll
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.pdb
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.genruntimeconfig.cache
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\ref\TVP_Projekat.dll
+E:\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Proj.CE743999.Up2Date
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.exe
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.deps.json
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.runtimeconfig.json
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.dll
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.pdb
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Identity.Core.dll
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\User\Desktop\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.AssemblyReference.cache
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Administrator.resources
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.DodajIzlet.resources
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.FormeZaUnos.DodajRezervaciju.resources
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Registracija.resources
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.OsnovneKlase.IstorijaRezervacija.resources
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Klijent.resources
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Prijava.resources
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.GenerateResource.cache
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.AssemblyInfoInputs.cache
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.AssemblyInfo.cs
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.CoreCompileInputs.cache
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.CopyComplete
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.dll
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\refint\TVP_Projekat.dll
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.pdb
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.genruntimeconfig.cache
+D:\User\Desktop\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\ref\TVP_Projekat.dll
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.exe
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.deps.json
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.runtimeconfig.json
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.dll
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.pdb
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Identity.Core.dll
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\User\Download\TVP_Projekat\TEMP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.AssemblyReference.cache
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Administrator.resources
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.DodajIzlet.resources
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.FormeZaUnos.DodajRezervaciju.resources
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Registracija.resources
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.OsnovneKlase.IstorijaRezervacija.resources
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Klijent.resources
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Prijava.resources
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.GenerateResource.cache
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.AssemblyInfoInputs.cache
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.AssemblyInfo.cs
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.CoreCompileInputs.cache
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.CopyComplete
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.dll
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\refint\TVP_Projekat.dll
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.pdb
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.genruntimeconfig.cache
+D:\User\Download\TVP_Projekat\TEMP\obj\Debug\net8.0-windows\ref\TVP_Projekat.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.exe
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.deps.json
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.runtimeconfig.json
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\TVP_Projekat.pdb
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Identity.Core.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.AssemblyReference.cache
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Administrator.resources
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.DodajIzlet.resources
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.FormeZaUnos.DodajRezervaciju.resources
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Registracija.resources
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.OsnovneKlase.IstorijaRezervacija.resources
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Klijent.resources
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.Prijava.resources
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.GenerateResource.cache
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.AssemblyInfoInputs.cache
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.AssemblyInfo.cs
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.CoreCompileInputs.cache
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.csproj.CopyComplete
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\refint\TVP_Projekat.dll
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.pdb
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\TVP_Projekat.genruntimeconfig.cache
+D:\User\Desktop\Projekti za Gitthub\TVP_Projekat1\TEMP\obj\Debug\net8.0-windows\ref\TVP_Projekat.dll

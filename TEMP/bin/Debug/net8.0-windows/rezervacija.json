@@ -1,0 +1,47 @@
+[
+  {
+    "id": "65f0f559-adef-4d77-9d63-996a420525ca",
+    "idKorisnika": "bcf1ab62-1f56-44bb-8638-2b9b1a15e682",
+    "idIzleta": "ffcd2e98-a390-4d33-ab74-49d61ed87188",
+    "ukupnaCena": 200.0,
+    "brRezervisanihMesta": 2,
+    "datumKreacijeRezervacije": "2024-06-15T00:33:49.1529989+02:00",
+    "zastareo": false
+  },
+  {
+    "id": "ecc9d206-535d-4593-8120-dde3701f6b0c",
+    "idKorisnika": "c7da5705-f93e-4731-9290-223a374fb4a4",
+    "idIzleta": "8bd454b5-1ab2-458d-8c36-667e61742e59",
+    "ukupnaCena": 30000.0,
+    "brRezervisanihMesta": 3,
+    "datumKreacijeRezervacije": "2024-06-15T10:48:23.1157428+02:00",
+    "zastareo": false
+  },
+  {
+    "id": "f7ff5922-85bf-42cd-882c-a97717b50810",
+    "idKorisnika": "426b7127-45bc-41d3-86f1-393ea72259b0",
+    "idIzleta": "d89609f7-ee98-424b-9e2e-c0bf193be78d",
+    "ukupnaCena": 200.0,
+    "brRezervisanihMesta": 2,
+    "datumKreacijeRezervacije": "2024-06-15T10:49:32.4855358+02:00",
+    "zastareo": false
+  },
+  {
+    "id": "83923ab9-8e90-4161-9fb4-a10cde811453",
+    "idKorisnika": "426b7127-45bc-41d3-86f1-393ea72259b0",
+    "idIzleta": "9166aa00-5aa7-4d78-9453-d892e4654192",
+    "ukupnaCena": 15.0,
+    "brRezervisanihMesta": 3,
+    "datumKreacijeRezervacije": "2024-06-15T10:59:18.8826878+02:00",
+    "zastareo": false
+  },
+  {
+    "id": "aab9480c-6dd2-47ab-87cc-58434807c7b3",
+    "idKorisnika": "426b7127-45bc-41d3-86f1-393ea72259b0",
+    "idIzleta": "9ba993e9-580d-441a-9578-d0487703ed00",
+    "ukupnaCena": 9900.0,
+    "brRezervisanihMesta": 10,
+    "datumKreacijeRezervacije": "2024-06-15T11:06:53.3703539+02:00",
+    "zastareo": false
+  }
+]

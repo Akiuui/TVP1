@@ -1,0 +1,90 @@
+[
+  {
+    "id": "ffcd2e98-a390-4d33-ab74-49d61ed87188",
+    "mesto": "Qwe",
+    "drzava": "Qwe",
+    "cena": 100.0,
+    "popust": 0,
+    "brojDana": 10,
+    "ukupnoMesta": 13,
+    "datum": "2024-07-11T00:00:00",
+    "zastareo": true
+  },
+  {
+    "id": "c838ecbe-1b9e-4706-b700-073dbf11cfd6",
+    "mesto": "Qwe",
+    "drzava": "Qwe",
+    "cena": 12.0,
+    "popust": 12,
+    "brojDana": 12,
+    "ukupnoMesta": 12,
+    "datum": "2024-06-15T00:00:00+02:00",
+    "zastareo": true
+  },
+  {
+    "id": "458eeeee-790e-4bee-b812-716bfee1338a",
+    "mesto": "Qwe",
+    "drzava": "Qwe",
+    "cena": 12.0,
+    "popust": 12,
+    "brojDana": 12,
+    "ukupnoMesta": 12,
+    "datum": "2024-06-15T00:00:00+02:00",
+    "zastareo": true
+  },
+  {
+    "id": "a3913d46-69a2-4228-a409-fe668041dce4",
+    "mesto": "Rt",
+    "drzava": "Rty",
+    "cena": 123.0,
+    "popust": 123,
+    "brojDana": 23,
+    "ukupnoMesta": 23,
+    "datum": "2024-06-15T00:00:00+02:00",
+    "zastareo": true
+  },
+  {
+    "id": "8bd454b5-1ab2-458d-8c36-667e61742e59",
+    "mesto": "Smederevo",
+    "drzava": "Srbija",
+    "cena": 10000.0,
+    "popust": 0,
+    "brojDana": 10,
+    "ukupnoMesta": 7,
+    "datum": "2024-06-15T00:00:00+02:00",
+    "zastareo": true
+  },
+  {
+    "id": "d89609f7-ee98-424b-9e2e-c0bf193be78d",
+    "mesto": "Qwe",
+    "drzava": "Qwe",
+    "cena": 100.0,
+    "popust": 0,
+    "brojDana": 2,
+    "ukupnoMesta": 2,
+    "datum": "2024-07-07T00:00:00",
+    "zastareo": true
+  },
+  {
+    "id": "9166aa00-5aa7-4d78-9453-d892e4654192",
+    "mesto": "Prnjavor",
+    "drzava": "Srbija",
+    "cena": 10.0,
+    "popust": 5,
+    "brojDana": 3,
+    "ukupnoMesta": 0,
+    "datum": "2024-07-11T00:00:00",
+    "zastareo": true
+  },
+  {
+    "id": "9ba993e9-580d-441a-9578-d0487703ed00",
+    "mesto": "Beograd",
+    "drzava": "Srbija",
+    "cena": 1000.0,
+    "popust": 10,
+    "brojDana": 3,
+    "ukupnoMesta": 0,
+    "datum": "2024-06-17T00:00:00",
+    "zastareo": true
+  }
+]

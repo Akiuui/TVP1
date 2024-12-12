@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bcf1ab62-1f56-44bb-8638-2b9b1a15e682",
+    "ime": "a",
+    "prezime": "a",
+    "korisnickoIme": "a",
+    "lozinka": "aaaaaa",
+    "tipNaloga": 0
+  },
+  {
+    "id": "c7da5705-f93e-4731-9290-223a374fb4a4",
+    "ime": "qwe",
+    "prezime": "qwe",
+    "korisnickoIme": "qwe",
+    "lozinka": "qweqwe",
+    "tipNaloga": 1
+  },
+  {
+    "id": "426b7127-45bc-41d3-86f1-393ea72259b0",
+    "ime": "kor",
+    "prezime": "kor",
+    "korisnickoIme": "kor",
+    "lozinka": "korkor",
+    "tipNaloga": 1
+  },
+  {
+    "id": "c1fc4f0d-346c-4399-b562-0a323ccecb30",
+    "ime": "aleksa",
+    "prezime": "aleksa",
+    "korisnickoIme": "aleksa",
+    "lozinka": "aleksa",
+    "tipNaloga": 1
+  },
+  {
+    "id": "7227ea97-c665-46bf-9c82-e85a5672c64f",
+    "ime": "a",
+    "prezime": "a",
+    "korisnickoIme": "asd",
+    "lozinka": "aaaaaaa",
+    "tipNaloga": 1
+  }
+]
